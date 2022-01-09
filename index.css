@@ -1,0 +1,43 @@
+th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background: rgb(0, 148, 68);
+}
+
+tr:nth-child(even){
+     background-color:  #b6b4b4;
+}
+
+tr:nth-child(odd){
+    background-color:  #dddcdc;
+}
+
+td, th{
+    padding: 8px;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+h3 {
+    text-align: center;
+}
+
+div {
+    background-color:#dddada;
+    border-radius: 10px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+table {
+    width: 100%;
+    padding-bottom: 8px;
+}
